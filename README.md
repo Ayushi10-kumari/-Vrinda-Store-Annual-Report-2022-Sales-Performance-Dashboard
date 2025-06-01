@@ -10,6 +10,7 @@ Customer demographics (gender and age-wise orders)
 Order status breakdown (Delivered, Cancelled, Returned, Refunded)
 
 📈 Key Insights
+
 👩‍🦰 Women (64%) are more likely to purchase than men.
 
 🧑‍💼 The adult age group (30–49 years) is the highest contributing customer segment.
