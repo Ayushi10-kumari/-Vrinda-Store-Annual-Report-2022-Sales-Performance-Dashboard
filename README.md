@@ -1,4 +1,4 @@
-# -Vrinda-Store-Annual-Report-2022-Sales-Performance-Dashboard
+# Vrinda-Store-Annual-Report-2022-Sales-Performance-Dashboard
 Using monthly sales and order data, the dashboard provides a clear, interactive visualization to help stakeholders understand:
 
 Order vs. Sales trends across the year
